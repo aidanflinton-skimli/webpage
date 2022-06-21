@@ -25,6 +25,11 @@ export default function Home({ allPostsData }) {
           Skimli is an AI video shortening service and this is a website that
           will eventually display a UI of the timeline for the short videos
         </p>
+        <p>
+          My goal for this page is to have 3 links to train models, evaluate
+          model accuracy, and provide a ui timline of the model key moments
+          respectively from the ec2 server
+        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
